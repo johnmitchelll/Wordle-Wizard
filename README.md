@@ -1,0 +1,1 @@
+This is about my third iteration to try and "solve" the popular puzzle game Wordle. This is my best and final version and it can solve any and every word within the 5 try limit. I also added a second page that will allow you to watch the Wordle Wizard solve every possible Wordle. 
